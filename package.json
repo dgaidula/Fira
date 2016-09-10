@@ -1,10 +1,10 @@
 {
   "name": "fira",
   "version": "4.2.2",
-  "homepage": "https://github.com/mozilla/Fira",
+  "homepage": "https://github.com/dgaidula/Fira",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/Fira"
+    "url": "https://github.com/dgaidula/Fira"
   },
   "description": "Fira font family including Fira Sans and Fira Mono",
   "licenses": [
